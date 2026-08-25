@@ -1,5 +1,8 @@
 # Edit in TextMate
 
+> **Unmaintained.** I built this for my own machine and it does what I need. I'm not
+> reviewing issues or pull requests — fork it and take it wherever you like. MIT licensed.
+
 macOS Service for system-wide text editing. Select text in any app, invoke service, edit in TextMate, changes replace original selection.
 
 **Version:** 1.1 (Security Hardened)
